@@ -2,6 +2,6 @@
 Built a Python Wikipedia Image Web Scrapper microservice via txt files. 
 ## Running the program
 - In the index.js file, the variable 'element' by default is 'fish'. Change this to any subject you would like an image for. Can also be an array of subjects. 
-- run command 'python scraping.py'
-- run command 'node index.js'
-- You will then get a link to the image in the imageLinks.txt file
+- Run the command 'python scraping.py'
+- Run the command 'node index.js'
+- A wikipedia link to the image will be found in the imageLinks.txt file
